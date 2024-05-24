@@ -7,5 +7,5 @@ import vitePluginRequire from "vite-plugin-require";
 export default defineConfig({
   plugins: [react(),vitePluginRequire.default(),
     
-	],base:"/"
+	],base:""
 })
